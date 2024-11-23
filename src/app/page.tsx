@@ -1,12 +1,11 @@
 "use client"
-import { useState } from "react";
 
 export default function Home() {
 
 
 
 const heading:string="Deployment Errors On Vercel"
-const text:string="please Share , Like and Subscribe My Youtube Channel Code With Or Without AI"
+const text:string="please Share & Like and Subscribe My Youtube Channel Code With Or Without AI"
 
   return (
     <div className="w-full h-screen flex flex-col items-center gap-4 justify-center text-center bg-blue-500">
@@ -19,4 +18,3 @@ const text:string="please Share , Like and Subscribe My Youtube Channel Code Wit
     </div>
   );
 }
-``
